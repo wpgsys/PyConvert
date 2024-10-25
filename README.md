@@ -63,7 +63,7 @@ Follow the steps below to set up and run the **Universal File Converter** on you
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/wpgsys/PyConverter.git
+git clone https://github.com/wpgsys/PyConvert.git
 cd universal-file-converter
 ```
 
