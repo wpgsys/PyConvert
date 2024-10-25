@@ -64,7 +64,7 @@ Follow the steps below to set up and run the **Universal File Converter** on you
 
 ```bash
 git clone https://github.com/wpgsys/PyConvert.git
-cd universal-file-converter
+cd PyConvert
 ```
 
 #### 2. Set Up a Virtual Environment (Optional but Recommended)
